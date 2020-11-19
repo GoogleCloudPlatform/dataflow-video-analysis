@@ -1,0 +1,18 @@
+{
+  "name": "via-longrun-job-func",
+  "description": "via-longrun-job-func",
+  "author": "Rui Santos Costa",
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.0.20",
+    "@google-cloud/pubsub": "^0.18.0",
+    "@google-cloud/video-intelligence": "3.0.1",
+    "@google-cloud/storage": "^1.7.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "uniqid": "^5.0.3"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

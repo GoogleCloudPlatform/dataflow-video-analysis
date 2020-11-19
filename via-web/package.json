@@ -1,0 +1,43 @@
+{
+  "name": "via-search-engine",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@date-io/moment": "^1.1.0",
+    "@elastic/app-search-javascript": "^7.8.0",
+    "@elastic/react-search-ui": "^1.4.1",
+    "@elastic/search-ui-app-search-connector": "^1.4.1",
+    "@material-ui/core": "^4.0.0",
+    "@material-ui/icons": "^3.0.2",
+    "@material-ui/lab": "^4.0.0-alpha.56",
+    "bootstrap": "^4.3.1",
+    "dangerously-set-html-content": "^1.0.8",
+    "history": "^4.7.2",
+    "material-ui-icons": "^1.0.0-beta.36",
+    "moment": "^2.24.0",
+    "perfect-scrollbar": "^1.4.0",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4",
+    "react-perfect-scrollbar": "^1.5.8",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^4.0.0",
+    "react-scrollbars-custom": "^4.0.25",
+    "stopword": "^1.0.3",
+    "video.js": "^7.10.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
